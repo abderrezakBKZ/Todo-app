@@ -3,6 +3,10 @@
 Simple todo App with vuetify.
 add /check / remove tasks.
 
+## Contributors
+1. Boukazouha Abderrezak
+2. Bouzourine Youcef
+
 ## Project setup
 
 ```
